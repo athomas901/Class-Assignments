@@ -1,6 +1,40 @@
 /**********************************
  * YOUR CODE GOES HERE THIS TIME! *
  **********************************/
+Answers
+
+x + 3
+y + 10
+z + 4
+var greeting = 'hello'
+var firstName = 'Angela'
+var callStatus = 'ringing'
+
+function double() {
+  x = x*2
+}
+
+ function triple() {
+  y = y*3
+ }
+ function square() {
+  z = z**2
+ }
+
+function beNice (){
+    greeting = 'hello' + firstName
+
+}
+
+function changeName (){
+    firstName = 'Danger'
+
+}
+
+function hangup (){
+    callStatus = "call ended"
+
+}
 
 
 
