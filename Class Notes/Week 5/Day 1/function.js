@@ -47,11 +47,11 @@ console.log(add(1)
 // }
 // myName("Carlos")
 
-// function square(number) {
-//   return number * number
+function square(number) {
+  return number * number
 
-// }
-// square(10)
+}
+square(10)
 
 
 // //functions with two parameters
