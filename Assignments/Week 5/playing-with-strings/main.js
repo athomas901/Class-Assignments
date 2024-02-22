@@ -2,7 +2,16 @@
  * YOUR CODE HERE *
  ******************/
 
+function xify(str) {
+  xify("Hello")=> "xxxxx"
 
+}
+console.log(str)
+
+//add return or console.log
+
+
+//xify("Hello")=>"xxxxx"
 
  /********************************************
  * CODE DOWN HERE IS FOR INTERNAL USE ONLY. *
